@@ -1,0 +1,38 @@
+		/*margenes*/
+.mt-2{
+	margin-top: 2%;
+}
+		/*padding*/
+.pd2{
+	padding: 2%;
+}
+
+div.form-group{
+	background-color: #607D8B;
+	padding: 1%;
+	display: inline-block;
+	margin: 1%;
+}
+
+h2{
+	display: inline;
+	color: white;
+	padding: 1%;
+}
+#contenedor{
+	padding: 2%;
+	background-color: grey;
+}
+div#contenedor>div{
+	background-color: #3F51B5;
+	border-radius: 10px;
+	display: inline-block;
+	padding: 1%;
+	text-align: center;
+	margin: 1%;
+}
+textarea{
+	display: block;
+	margin-bottom: 2%;
+	border-radius: 10px;
+}
